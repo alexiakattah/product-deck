@@ -33,11 +33,8 @@ Somos uma all-in-one/unified platform de marketing e vendas que oferece uma solu
 ### Assessment
 
 #### Modelo de Maturidade
-![estagio] 
 
-[Raw Data]
 
-[Form Request]
 
 
 #### Arquitetura
@@ -46,7 +43,6 @@ Somos uma all-in-one/unified platform de marketing e vendas que oferece uma solu
 #### Ambiente tecnológico
 ![estagio](./images/ambiente.png) 
 
-* Pode ser uma lista
 
 #### Ambiente de produtividade
 
