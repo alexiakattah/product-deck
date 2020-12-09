@@ -1,39 +1,45 @@
-# Wayne Enterprises
+# OQ Digital
 
 ## Company
 
-![logo](./images/wayne-logo.jpg)  
-[https://wayne.tech](https://dc.fandom.com/wiki/Wayne_Enterprises)  
+![logo](./images/logo.jpeg)  
+[https://oqdigital.com](https://oqdigital.com)  
 
-Wayne é uma corporação que atua em diversas áreas e fez a transição para o mundo digital com dispositivos e softwares para proteção pessoal de forças policiais, militares e segurança privada.  
+UMA ALL-IN-ONE MARKETING PLATFORM QUE TRANSFORMA CLIENTES E EQUIPES DE VENDAS EM SOCIAL SELLERS/BRAND LOVERS DAS EMPRESAS NOS MEIOS DIGITAIS.
 
 ### Mulheres no Cap Tables
-Helena Wayne (CFO)  
-[Linkedin](https://en.wikipedia.org/wiki/Huntress_(Helena_Wayne))  
-Tel: (11) 444-4444  
-Email: wayne.helena@wayne.tech
+Fernanda Tavares (COO)  
+[Linkedin](https://www.linkedin.com/in/fernandatavaresnascimento (Fernanda Tavares))  
+Tel: (31) 99765-9419  
+Email: fernanda.tavares@oqdigital.com
+
+Alexia Kattah (CTO)  
+[Linkedin](https://www.linkedin.com/in/alexiakattah (Alexia Kattah))  
+Tel: (37) 99905-9194  
+Email: alexia.kattah@oqdigital.com
 
 ## Product
 
 ### Bat Armor
 
-![estagio](./images/startup-journey.png) 
+![estagio](./images/bat-armor.jpeg) 
 
 Produto em Operação e buscando investimento para tração.
 
 ### Product Strategy
 
-Para a indústria de segurança pública e privada, o Bat Armor é uma armadura inteligente com plataforma digital IOT que utiliza aprendizado de máquina para realizar otimização de programas, manutenção preditiva e prescritiva para a melhor abordagem utilizando o equipamento.  
-Diferentemente das soluções da LexCorp e Stagg Enterprises que monitoram apenas indicadores básicos em tempo real, a Bat Armor atua de forma preditiva, aplicando AI para detectar falhas no equipamento, prever pontos de perigo e melhoria de atuação pelo profissional de segurança.
+Somos uma all-in-one/unified platform de marketing e vendas que oferece uma solução completa para engajamento, monitoramento, comunicação e gerenciamento de equipes, motivação de vendedores e relacionamento e fidelização de clientes. Desenvolvemos, a partir de uma robusta plataforma White-label, uma versão tailor made e entregamos um enorme valor para nossos clientes ao cortar custos de aquisição, acelerar o ciclo de vendas, aumentar a produtividade das equipes e os resultados financeiros das empresas. Todo o processo de onboarding e implantação é modular e extremamente rápido; apesar de ser on-demand e 100% customizado para atender a realidade dos processos comerciais e as necessidades específicas de mercado de cada uma das empresas/clientes. A plataforma foi construída no padrão i18N para permitir a adaptação de idiomas, toda a coleta e tratamento de dados já está em conformidade com a LGPD, e grande parte do processo de implantação é automatizado e pré-modulado, permitindo uma entrada rápida e ganho de escala na velocidade que as vendas atingirem.
 
 ### Assessment
 
 #### Modelo de Maturidade
-![estagio](./images/maturidade-wayne.png)  
+![estagio] 
 
-[Raw Data](https://startupstudio-my.sharepoint.com/:x:/g/personal/christiano_milfont_weimpact_tech/ESxVURjA9bFAswbXLh3dKjsBJA6cxH-6MRS63wTbDpHVVg?e=Oa4pyh)  
+[Raw Data]
 
-[Form Request](https://forms.office.com/Pages/DesignPage.aspx#FormId=PFtBNkXp7kC_p-PVgOOkosYesZCxN79Kl6h0EvzeRxFUODlQQzU5MU0xNFY0QVI0QTI4Q0FPUUU3OS4u)  
+[Form Request]
+
+
 #### Arquitetura
 ![estagio](./images/arquitetura.png) 
 
@@ -45,17 +51,17 @@ Diferentemente das soluções da LexCorp e Stagg Enterprises que monitoram apena
 #### Ambiente de produtividade
 
 Lista com os fornecedores de:  
-1.  Mensageria e compartilhamento: Slack, Teams, etc;
-2.  Meeting: Google Meet, Teams, Zoom, etc;
-3.  Ferramentas de planejamento: Trello, Jira, MS Planner, etc;
-4.  Ferramentas Office: Google Drive, MS Office, etc;
-5.  Compartilhamento de arquivos: Google Drive, MS Onedrive, Dropox, etc;
+1.  Mensageria e compartilhamento: Discord, Slack;
+2.  Meeting: Google Meet, Teams;
+3.  Ferramentas de planejamento: Trello, Jira;
+4.  Ferramentas Office: Google Drive;
+5.  Compartilhamento de arquivos: Google Drive, Dropox;
+6.  Compartilhamento de design: Figma, Adobe XD;
 
-Mais informações que ache importante.
 
 ### Team Building
 
 #### Time de tecnologia do produto
-**Nome**: Crezio Richard Santos, 27 anos, santos.crezio@wayne.tech  
-**Cargo**: Engenheiro de Software para Backend, Sistemas Embarcados, IIOT e Robótica.
-[https://www.linkedin.com/in/creziorichardsantos/](https://www.linkedin.com/in/creziorichardsantos/)
+**Nome**: Alexia Karoline Xavier Lopes Kattah, 23 anos, alexia.kattah@oqdigital.com
+**Cargo**: CTO, Engenheira de Computação e FullStack Developer com foco em desenvolvimento Web.
+[https://www.linkedin.com/in/alexiakattah/](https://www.linkedin.com/in/alexiakattah/)
